@@ -25,6 +25,7 @@ Odpowiednio duże wartości
 parametrów ***n*** oraz ***p*** dla rozkładu oraz wielkość
 próby przekładają się na bliską poziomowi ufności
 wartość wynikową
+
 ![Przykład pozytywny](./positive_example.png)
 
 
@@ -33,4 +34,5 @@ Niskie wartości parametrów
 ***n*** oraz ***p*** oraz wielkości próby nie spełniają założeń
 modelu, wartość wynikowa znacząco odbiega od
 oczekiwanej.
+
 ![Przykład negatywny](./negative_example.png)
